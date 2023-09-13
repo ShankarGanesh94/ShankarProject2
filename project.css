@@ -1,0 +1,17 @@
+h1, h2 {
+    color: rgb(106, 250, 58);
+    text-align: center;
+
+}
+
+input {
+    border-radius: 200px;
+    border: 2px blue red;
+    margin-top: 30px;
+    padding: 10px;
+}
+
+body {
+    background-color: black;
+    color: white;
+}
